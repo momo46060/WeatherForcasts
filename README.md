@@ -12,9 +12,7 @@ If you want to contribute to this repository by reviewing my code, refactor it, 
 
 ## Screenshots
 
-<img src="https://ibb.co/HHBCHFX" width="200">&nbsp;<img src="https://ibb.co/r4QRYBs" width="200">&nbsp;<img src="https://ibb.co/LQ6ZGqd" width="200">&nbsp;<img src="https://ibb.co/PNDCwTv" width="200">
-
-
+<img src="https://i.ibb.co/hmLcm7C/Screenshot-20241004-155451.png" width="200">&nbsp;<img src="https://i.ibb.co/f4Xzf3v/Screenshot-20241004-155638.png" width="200">&nbsp;<img src="https://i.ibb.co/db65h34/Screenshot-20241004-160756.png" width="200">&nbsp;<img src="https://i.ibb.co/mGNz6vV/Screenshot-20241004-160814.png" width="200">
 
 ## How to use
 * Please check that your device is connected to the internet.
